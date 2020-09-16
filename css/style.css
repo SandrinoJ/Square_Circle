@@ -1,0 +1,38 @@
+body {
+ background-color:rgb(10, 139, 204);   
+}
+.mainDiv {
+    background-color: #210458;
+    height: 610px;
+    width: 610px;
+    margin: 0 auto;
+}
+.mainDiv > div {
+    margin: 0 0 auto;
+    display: inline-block;
+    color: white;
+    height: 200px;
+    width: 200px;
+}
+.sred {
+background-color:rgba(253, 8, 8, 0.897);
+}
+.yellow {
+background-color: rgba(220, 245, 0, 0.897);
+border-radius: 50%;
+}
+.green {
+background-color: rgba(30, 255, 0, 0.986);
+}
+.red {
+
+ background-color:rgba(253, 8, 8, 0.897);
+border-radius: 50%;
+}
+.syellow {
+background-color: rgba(220, 245, 0, 0.897);
+}
+.cgreen {
+background-color: rgba(30, 255, 0, 0.986);
+border-radius:50%;
+}
